@@ -1,0 +1,15 @@
+{
+"id": "TASK_task_result_35135c87-40ed-483e-a880-ceffafee93b6",
+"parent_id": "SCENARIO_scenario_4ff955a8-31d8-4cde-9100-6c7a778462db",
+"config_id": "task_result",
+"input_ids": [
+"DATANODE_preprocess_data_af9b8ffe-1302-4616-b84f-7cec961f0150",
+"DATANODE_predictions_0a81b922-2d8e-4c63-abe3-d6e1ecc4ef6b",
+"DATANODE_nb_to_predict_1570ad8d-d1ae-41fb-937b-fa85ee39f341"
+],
+"function_name": "result",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_result_db8eafba-caf1-4f4a-b25d-6b8ec55244d4"
+]
+}

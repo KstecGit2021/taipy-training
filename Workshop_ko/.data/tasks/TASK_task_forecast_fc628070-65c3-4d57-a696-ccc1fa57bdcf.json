@@ -1,0 +1,14 @@
+{
+"id": "TASK_task_forecast_fc628070-65c3-4d57-a696-ccc1fa57bdcf",
+"parent_id": "SCENARIO_scenario_e71a3874-8faa-401b-9799-80ec29f13e2e",
+"config_id": "task_forecast",
+"input_ids": [
+"DATANODE_model_2c743648-114a-4732-a1cc-6b94c508817a",
+"DATANODE_nb_to_predict_f471dc97-797b-4a22-9543-f4ac61ca826c"
+],
+"function_name": "forecast",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_predictions_d8a67f04-8a1f-456b-98e6-b519e6018223"
+]
+}

@@ -1,0 +1,20 @@
+{
+"id": "DATANODE_train_data_d23a039e-6fd2-48e5-96d6-4143bbe9f9a9",
+"config_id": "train_data",
+"scope": "<Scope.SCENARIO: 2>",
+"storage_type": "pickle",
+"name": "DATANODE_train_data_d23a039e-6fd2-48e5-96d6-4143bbe9f9a9",
+"parent_id": "SCENARIO_scenario_839d877f-6441-4b0c-8c94-7b208e2b21b4",
+"last_edit_date": "2022-08-10T14:36:00.955387",
+"job_ids": [
+"JOB_task_make_train_test_data_d9cc0e09-241f-4dc6-8b3c-cb6a024e7a93",
+"JOB_task_make_train_test_data_98a2592c-5109-4bd1-945e-30157cafbf86",
+"JOB_task_make_train_test_data_89ce8a20-8537-4558-bbcd-866b916bf410"
+],
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"data_node_properties": {
+"cacheable": true
+}
+}

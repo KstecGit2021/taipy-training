@@ -1,0 +1,11 @@
+{
+"id": "PIPELINE_pipeline_forecast_44464d48-f6cc-4f5e-b31a-24c3204d10d4",
+"parent_id": "SCENARIO_scenario_e71a3874-8faa-401b-9799-80ec29f13e2e",
+"config_id": "pipeline_forecast",
+"properties": {},
+"tasks": [
+"TASK_task_forecast_fc628070-65c3-4d57-a696-ccc1fa57bdcf",
+"TASK_task_result_c61d4682-f710-4f96-9713-5fc9a3973ec3"
+],
+"subscribers": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "DATANODE_nb_to_predict_1570ad8d-d1ae-41fb-937b-fa85ee39f341",
+"config_id": "nb_to_predict",
+"scope": "<Scope.SCENARIO: 2>",
+"storage_type": "pickle",
+"name": "DATANODE_nb_to_predict_1570ad8d-d1ae-41fb-937b-fa85ee39f341",
+"parent_id": "SCENARIO_scenario_4ff955a8-31d8-4cde-9100-6c7a778462db",
+"last_edit_date": "2022-07-31T17:18:33.749660",
+"job_ids": [
+"JOB_task_make_train_test_data_f37c5c33-6392-476f-a58d-65cddb432027"
+],
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"data_node_properties": {
+"cacheable": true
+}
+}

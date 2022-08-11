@@ -1,0 +1,13 @@
+{
+"id": "TASK_task_train_ce8279f6-ddec-4862-89cd-0c3c3e5732ff",
+"parent_id": "SCENARIO_scenario_e71a3874-8faa-401b-9799-80ec29f13e2e",
+"config_id": "task_train",
+"input_ids": [
+"DATANODE_train_data_5937e3d1-a9b9-4c6c-ab26-fb926ed39094"
+],
+"function_name": "train_model",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_model_2c743648-114a-4732-a1cc-6b94c508817a"
+]
+}

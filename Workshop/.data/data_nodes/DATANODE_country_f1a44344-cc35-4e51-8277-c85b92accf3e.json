@@ -1,0 +1,16 @@
+{
+"id": "DATANODE_country_f1a44344-cc35-4e51-8277-c85b92accf3e",
+"config_id": "country",
+"scope": "<Scope.SCENARIO: 2>",
+"storage_type": "pickle",
+"name": "DATANODE_country_f1a44344-cc35-4e51-8277-c85b92accf3e",
+"parent_id": "SCENARIO_scenario_4ff955a8-31d8-4cde-9100-6c7a778462db",
+"last_edit_date": "2022-07-31T17:18:31.334624",
+"job_ids": [],
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"data_node_properties": {
+"cacheable": true
+}
+}

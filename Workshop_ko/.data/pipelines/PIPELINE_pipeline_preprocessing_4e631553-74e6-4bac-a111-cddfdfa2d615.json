@@ -1,0 +1,11 @@
+{
+"id": "PIPELINE_pipeline_preprocessing_4e631553-74e6-4bac-a111-cddfdfa2d615",
+"parent_id": "SCENARIO_scenario_839d877f-6441-4b0c-8c94-7b208e2b21b4",
+"config_id": "pipeline_preprocessing",
+"properties": {},
+"tasks": [
+"TASK_task_preprocess_data_3ebeeca7-ddc6-4472-a89d-5b6058c1add3",
+"TASK_task_make_train_test_data_7009c64c-3666-4dbb-95d8-a90553446510"
+],
+"subscribers": []
+}

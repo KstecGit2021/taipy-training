@@ -1,0 +1,14 @@
+{
+"id": "TASK_task_preprocess_data_3e6ce239-8498-489f-a344-4438fc617336",
+"parent_id": "SCENARIO_scenario_4ff955a8-31d8-4cde-9100-6c7a778462db",
+"config_id": "task_preprocess_data",
+"input_ids": [
+"DATANODE_initial_data_bc3a00d7-91a3-40b4-9cd5-1b224bcda013",
+"DATANODE_country_f1a44344-cc35-4e51-8277-c85b92accf3e"
+],
+"function_name": "preprocess",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_preprocess_data_af9b8ffe-1302-4616-b84f-7cec961f0150"
+]
+}

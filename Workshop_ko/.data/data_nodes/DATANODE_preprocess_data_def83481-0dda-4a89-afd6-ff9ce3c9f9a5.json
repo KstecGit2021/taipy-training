@@ -1,0 +1,18 @@
+{
+"id": "DATANODE_preprocess_data_def83481-0dda-4a89-afd6-ff9ce3c9f9a5",
+"config_id": "preprocess_data",
+"scope": "<Scope.SCENARIO: 2>",
+"storage_type": "pickle",
+"name": "DATANODE_preprocess_data_def83481-0dda-4a89-afd6-ff9ce3c9f9a5",
+"parent_id": "SCENARIO_scenario_e71a3874-8faa-401b-9799-80ec29f13e2e",
+"last_edit_date": "2022-08-10T14:36:02.876119",
+"job_ids": [
+"JOB_task_preprocess_data_2b7cfb73-2ee0-42e2-a464-2f9c06dd597b"
+],
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"data_node_properties": {
+"cacheable": true
+}
+}

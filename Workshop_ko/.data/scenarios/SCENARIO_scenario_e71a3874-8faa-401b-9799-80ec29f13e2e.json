@@ -1,0 +1,17 @@
+{
+"id": "SCENARIO_scenario_e71a3874-8faa-401b-9799-80ec29f13e2e",
+"config_id": "scenario",
+"pipelines": [
+"PIPELINE_pipeline_preprocessing_667e4829-1e73-4eb4-8da4-12bad32501a2",
+"PIPELINE_pipeline_train_bd53308e-6afe-47cb-976d-0a912cc404a4",
+"PIPELINE_pipeline_forecast_44464d48-f6cc-4f5e-b31a-24c3204d10d4"
+],
+"properties": {
+"name": "Second Scenario"
+},
+"creation_date": "2022-08-10T14:36:01.621663",
+"primary_scenario": false,
+"subscribers": [],
+"tags": [],
+"cycle": null
+}

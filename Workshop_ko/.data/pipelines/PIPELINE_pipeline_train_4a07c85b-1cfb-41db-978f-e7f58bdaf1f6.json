@@ -1,0 +1,10 @@
+{
+"id": "PIPELINE_pipeline_train_4a07c85b-1cfb-41db-978f-e7f58bdaf1f6",
+"parent_id": "SCENARIO_scenario_839d877f-6441-4b0c-8c94-7b208e2b21b4",
+"config_id": "pipeline_train",
+"properties": {},
+"tasks": [
+"TASK_task_train_426f84b0-981e-4c11-9e61-890af4eb34bc"
+],
+"subscribers": []
+}

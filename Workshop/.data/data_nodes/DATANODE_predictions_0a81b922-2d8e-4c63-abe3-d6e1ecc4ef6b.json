@@ -1,0 +1,18 @@
+{
+"id": "DATANODE_predictions_0a81b922-2d8e-4c63-abe3-d6e1ecc4ef6b",
+"config_id": "predictions",
+"scope": "<Scope.SCENARIO: 2>",
+"storage_type": "pickle",
+"name": "DATANODE_predictions_0a81b922-2d8e-4c63-abe3-d6e1ecc4ef6b",
+"parent_id": "SCENARIO_scenario_4ff955a8-31d8-4cde-9100-6c7a778462db",
+"last_edit_date": "2022-07-31T17:18:36.323408",
+"job_ids": [
+"JOB_task_forecast_fcbcc7c5-8a77-4ee8-832a-18a9652dcaa1"
+],
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"data_node_properties": {
+"cacheable": false
+}
+}

@@ -1,0 +1,18 @@
+{
+"id": "DATANODE_initial_data_ac8c559d-be8b-45cd-9727-53d956a602b0",
+"config_id": "initial_data",
+"scope": "<Scope.SCENARIO: 2>",
+"storage_type": "csv",
+"name": "DATANODE_initial_data_ac8c559d-be8b-45cd-9727-53d956a602b0",
+"parent_id": "SCENARIO_scenario_e71a3874-8faa-401b-9799-80ec29f13e2e",
+"last_edit_date": "2022-08-10T14:36:01.535950",
+"job_ids": [],
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"data_node_properties": {
+"cacheable": true,
+"path": "data/covid-19-all.csv",
+"has_header": true
+}
+}

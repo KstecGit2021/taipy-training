@@ -1,0 +1,14 @@
+{
+"id": "TASK_task_make_train_test_data_7009c64c-3666-4dbb-95d8-a90553446510",
+"parent_id": "SCENARIO_scenario_839d877f-6441-4b0c-8c94-7b208e2b21b4",
+"config_id": "task_make_train_test_data",
+"input_ids": [
+"DATANODE_preprocess_data_326ddda3-aa4b-4fbf-9d25-5d412f6b515e"
+],
+"function_name": "make_train_test_data",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_train_data_d23a039e-6fd2-48e5-96d6-4143bbe9f9a9",
+"DATANODE_nb_to_predict_68177dad-b819-453e-9b1a-de6c35b26558"
+]
+}

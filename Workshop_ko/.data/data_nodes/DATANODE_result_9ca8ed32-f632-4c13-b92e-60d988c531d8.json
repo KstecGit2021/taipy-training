@@ -1,0 +1,18 @@
+{
+"id": "DATANODE_result_9ca8ed32-f632-4c13-b92e-60d988c531d8",
+"config_id": "result",
+"scope": "<Scope.SCENARIO: 2>",
+"storage_type": "pickle",
+"name": "DATANODE_result_9ca8ed32-f632-4c13-b92e-60d988c531d8",
+"parent_id": "SCENARIO_scenario_e71a3874-8faa-401b-9799-80ec29f13e2e",
+"last_edit_date": "2022-08-10T14:36:04.573442",
+"job_ids": [
+"JOB_task_result_a667534f-e4c0-42cd-9e64-47c69289191f"
+],
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"data_node_properties": {
+"cacheable": false
+}
+}

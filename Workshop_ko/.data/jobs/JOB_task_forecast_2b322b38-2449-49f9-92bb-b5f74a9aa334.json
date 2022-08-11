@@ -1,0 +1,15 @@
+{
+"id": "JOB_task_forecast_2b322b38-2449-49f9-92bb-b5f74a9aa334",
+"task_id": "TASK_task_forecast_fc628070-65c3-4d57-a696-ccc1fa57bdcf",
+"status": "<Status.COMPLETED: 7>",
+"force": false,
+"creation_date": "2022-08-10T14:36:04.402015",
+"subscribers": [
+{
+"fct_name": "_Scheduler._on_status_change",
+"fct_params": [],
+"fct_module": "taipy.core._scheduler._scheduler"
+}
+],
+"stacktrace": []
+}
